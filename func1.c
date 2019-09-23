@@ -1,7 +1,8 @@
 #include <stdio.h>
 void func1()
 {
-printf("funoisc1!!\n");
+printf("fiounoisc1!!\n");
 printf("hellow\n");
 printf("mastesr changes");
+printf("avaa");
 }
