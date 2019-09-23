@@ -3,5 +3,5 @@ void func1()
 {
 printf("fiounoisc1!!\n");
 printf("hellow\n");
-printf("aaa");
+printf("avaa");
 }
