@@ -3,5 +3,6 @@ int main(void)
 {
 func1();
 func2();
+func2();
 return 32;
 }
